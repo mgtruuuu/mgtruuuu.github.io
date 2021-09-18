@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Learning is FUN!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "MG"
+name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://mgtruuuu.github.io"
                            # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
