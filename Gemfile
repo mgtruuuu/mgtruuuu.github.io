@@ -1,6 +1,9 @@
 source "https://rubygems.org"
+gemspec
 
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem 'wdm', '>= 0.1.0'
-gem 'webrick', '~> 1.7'
+
+
+
+
+gem 'wdm', '>= 0.1.0'               # edited by MG
+gem "webrick"                       # edited by MG
