@@ -1,0 +1,56 @@
+1.
+$ scoop install msys2
+
+
+2.
+run msys2.exe
+
+	$ pacman -Syu
+
+	$ pacman -Su
+
+	$ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+
+
+3.
+Edit the system environment variables
+
+
+4.
+$ g++ --version
+
+
+5.
+$ scoop install ruby
+
+
+6.
+$ ridk install
+
+
+	$ 2, 3
+7.
+$ gem install jekyll bundler
+$ jekyll --version
+
+
+8.
+$cd d:\blog\
+$ git clone https://github.com/mmistakes/minimal-mistakes.git .
+
+
+9.
+edit the gemfile
+
+----------------
+source "https://rubygems.org"
+gemspec
+
+gem 'wdm', '>= 0.1.0'			# edited by MG
+gem "webrick"				# edited by MG
+----------------
+
+
+10.
+$ bundle install
+$ bundle exec jekyll serve
