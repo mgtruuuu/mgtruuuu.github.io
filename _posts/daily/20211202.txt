@@ -1,0 +1,7 @@
+https://www.oxfordlearnersdictionaries.com/about/get-premium/
+https://www.amazon.com/amazonprime
+https://smartstore.naver.com/olzen
+coursera
+
+std::vector::size_type
+
