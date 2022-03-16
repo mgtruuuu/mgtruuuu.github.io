@@ -11,8 +11,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Introduction to C++"
-    url: /LearnCpp/
 
-  - title: "Sensor Fusion"
-    url: /Udacity-SensorFusion/
+  - title: "computer"
+    url: /computer/
+
+  - title: "etc"
+    url: /etc/
